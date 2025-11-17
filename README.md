@@ -13,16 +13,16 @@ Built summary reports to identify top companies with complaints, product-wise is
 **Important Formulas Used**
   
   Purpose	                                                  Formula
-*Extracting Year	                                   =YEAR([@Date Received])
-*Extracting Quarter	                                 ="Q"&ROUNDUP(MONTH([@Date Received])/3,0)
-*Calculating Resolution Days	                       =[@Date Resolved] - [@Date Received]
-*Text Standardization	                               =TRIM(), =PROPER(), =UPPER()
-*Creating Categorization	                           =IF(condition, value_if_true, value_if_false)
-*Counting Complaints (conditions)	                   =COUNTIFS(Range1,Criteria1,Range2,Criteria2)
-*Summing Amounts (conditions)	                       =SUMIFS(SumRange, Range1, Criteria1)
-*Lookup Company/State Information	                   =VLOOKUP(), =XLOOKUP()
-*Detecting Missing Values	                           =IF(ISBLANK(cell),"Missing","OK")
-*Merging Text Fields	=CONCAT(),                     =TEXTJOIN()
+* Extracting Year	                                   =YEAR([@Date Received])
+* Extracting Quarter	                                 ="Q"&ROUNDUP(MONTH([@Date Received])/3,0)
+* Calculating Resolution Days	                       =[@Date Resolved] - [@Date Received]
+* Text Standardization	                               =TRIM(), =PROPER(), =UPPER()
+* Creating Categorization	                           =IF(condition, value_if_true, value_if_false)
+* Counting Complaints (conditions)	                   =COUNTIFS(Range1,Criteria1,Range2,Criteria2)
+* Summing Amounts (conditions)	                       =SUMIFS(SumRange, Range1, Criteria1)
+* Lookup Company/State Information	                   =VLOOKUP(), =XLOOKUP()
+* Detecting Missing Values	                           =IF(ISBLANK(cell),"Missing","OK")
+* Merging Text Fields	=CONCAT(),                     =TEXTJOIN()
 
 **Excel Tools/Techniques Used**
 
