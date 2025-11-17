@@ -12,7 +12,6 @@ Built summary reports to identify top companies with complaints, product-wise is
 
 **Important Formulas Used**
   
-  Purpose	                                                  Formula
 * Extracting Year	                                   =YEAR([@Date Received])
 * Extracting Quarter	                                 ="Q"&ROUNDUP(MONTH([@Date Received])/3,0)
 * Calculating Resolution Days	                       =[@Date Resolved] - [@Date Received]
