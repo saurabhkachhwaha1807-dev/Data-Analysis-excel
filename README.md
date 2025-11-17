@@ -26,10 +26,10 @@ Built summary reports to identify top companies with complaints, product-wise is
 
 **Excel Tools/Techniques Used**
 
-*PivotTables & PivotCharts
-*Data Cleaning (Remove Duplicates, Flash Fill, Text-to-Columns)
-*Conditional Formatting for insights
-*Data Validation for standardized categories
-*Slicers for dashboard interactivity
-*Advanced filters
-*Sorting & grouping by dates
+* PivotTables & PivotCharts
+* Data Cleaning (Remove Duplicates, Flash Fill, Text-to-Columns)
+* Conditional Formatting for insights
+* Data Validation for standardized categories
+* Slicers for dashboard interactivity
+* Advanced filters
+* Sorting & grouping by dates
