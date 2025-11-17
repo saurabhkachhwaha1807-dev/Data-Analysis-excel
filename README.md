@@ -4,11 +4,11 @@ Objective:
 To analyze nationwide consumer complaint records, clean the dataset, standardize fields, and derive meaningful insights related to complaint trends, company performance, and customer grievance status.
 
 **Key Tasks Performed**
-Cleaned and standardized inconsistent fields such as State, Issue, Product, Date Received, Date Resolved.
-Removed duplicates, handled missing values, and validated date formats.
-Extracted useful time-based fields such as Year, Quarter, Response Time, etc.
-Performed data segmentation using PivotTables.
-Built summary reports to identify top companies with complaints, product-wise issues, and state-wise distribution.
+* Cleaned and standardized inconsistent fields such as State, Issue, Product, Date Received, Date Resolved.
+* Removed duplicates, handled missing values, and validated date formats.
+* Extracted useful time-based fields such as Year, Quarter, Response Time, etc.
+* Performed data segmentation using PivotTables.
+* Built summary reports to identify top companies with complaints, product-wise issues, and state-wise distribution.
 
 **Important Formulas Used**
   
