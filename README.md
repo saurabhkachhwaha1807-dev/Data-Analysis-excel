@@ -32,3 +32,12 @@ To analyze nationwide consumer complaint records, clean the dataset, standardize
 * Slicers for dashboard interactivity
 * Advanced filters
 * Sorting & grouping by dates
+
+**Takeaways**
+
+* we can see in horizontal bar chart that which issue is priority
+* in trend line we can see that april,july and august has most no. of complaints
+* in timely response bar chart we can see its declining , which is not good
+* average resolution time is decresing , that’s good
+* total no. of complaint is decreasing every year
+
