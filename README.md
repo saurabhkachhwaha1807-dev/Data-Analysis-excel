@@ -33,6 +33,9 @@ To analyze nationwide consumer complaint records, clean the dataset, standardize
 * Advanced filters
 * Sorting & grouping by dates
 
+### dashboard
+[open screenshot](https://github.com/saurabhkachhwaha1807-dev/Data-Analysis-excel/blob/main/excel-dashboard.png)
+
 **Takeaways**
 
 * we can see in horizontal bar chart that which issue is priority
