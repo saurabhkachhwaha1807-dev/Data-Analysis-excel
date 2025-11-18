@@ -1,6 +1,6 @@
 # Consumer Complaint Data Analysis – Summary
 
-Objective:
+**Objective:**
 To analyze nationwide consumer complaint records, clean the dataset, standardize fields, and derive meaningful insights related to complaint trends, company performance, and customer grievance status.
 
 **Key Tasks Performed**
